@@ -64,7 +64,7 @@ ola-data-analysis/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/ola-data-analysis.git
+https://github.com/KaurManpreet1237/Ola-Insights-Python-SQL-PowerBI.git
 ```
 
 2. Open `.ipynb` files in **Jupyter Lab** or **VS Code** to explore Python code.
