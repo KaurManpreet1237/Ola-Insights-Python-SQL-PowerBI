@@ -77,7 +77,7 @@ git clone https://github.com/your-username/ola-data-analysis.git
 
 ## 🖼️ Sample Visuals
 
-![Ola Dashboard]()
+![Ola Dashboard](https://github.com/KaurManpreet1237/Ola-Insights-Python-SQL-PowerBI/blob/d65345dafe4439518c6ff9bc3a4431160f973d80/screenshots/overall.png)
 
 ---
 
